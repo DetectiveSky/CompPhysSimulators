@@ -8,6 +8,11 @@ I wouldn't change much about these programs if I were to go over them again - th
 
 The scripts can be run with any Python 3 interpreter. The Matplotlib and Numpy packages are required.
 
+### Gallery
+See below some of the more important figures from the simulators.
+![A chart showing the path of a modelled projectile, compared to two other paths with differing initial speeds.](A2 adiabatic approximation figures/Figure_2.png)
+![A chart showing the speed of a modelled bicylist, showing two speed functions - one performed on level ground, one performed at a 10% grade.](A2 bike racing figures/Figure_1.png)
+
 # Computational Physics Simulators: A4
 
 For transparency, the whole assignment has been included, but the files of note here are a4q3.py, a4q4.py, and a4q4lib.py.
