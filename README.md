@@ -1,5 +1,4 @@
-# ----- Computational Physics Simulators: A2 -----
-Last updated: Feb. 7, 2024
+# Computational Physics Simulators: A2
 
 This was Assignment 2 of a computational physics course in my second year of university. It consisted of scripting calculations within Python, using algorithms that we had been working on during our coursework.
 
@@ -9,10 +8,9 @@ I wouldn't change much about these programs if I were to go over them again - th
 
 The scripts can be run with any Python 3 interpreter. The Matplotlib and Numpy packages are required.
 
-# ----- Computational Physics Simulators: A4 -----
-Last updated Feb. 7, 2024
+# Computational Physics Simulators: A4
 
-For transparency, the whole assignment has been included, but the files of note here are q3.py, q4.py, and q4lib.py.
+For transparency, the whole assignment has been included, but the files of note here are a4q3.py, a4q4.py, and a4q4lib.py.
 
 This assignment focuses on the motion of a pendulum using the Euler-Cromer algorithm. It makes use of Python functions and numpy as well.
 
@@ -20,8 +18,7 @@ If I were to redo these scripts with more time, I would provide better documenta
 
 The program can be compiled and run using any Python 3 interpreter. The Numpy package is required.
 
-# ----- Computational Physics Simulators: A5 -----
-Last updated: February 7, 2024
+# Computational Physics Simulators: A5
 
 This program was created to simulate a pendulum - much like A4, also in this portfolio - except this program uses a much more accurate method, the Verlet algorithm.
 
