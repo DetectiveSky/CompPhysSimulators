@@ -10,8 +10,10 @@ The scripts can be run with any Python 3 interpreter. The Matplotlib and Numpy p
 
 ### Gallery
 See below some of the more important figures from the simulators.
-![A chart showing the path of a modelled projectile, compared to two other paths with differing initial speeds.](A2 adiabatic approximation figures/Figure_2.png)
-![A chart showing the speed of a modelled bicylist, showing two speed functions - one performed on level ground, one performed at a 10% grade.](A2 bike racing figures/Figure_1.png)
+
+![A chart showing the path of a modelled projectile, compared to two other paths with differing initial speeds.](/A2 adiabatic approximation figures/Figure_2.png)
+
+![A chart showing the speed of a modelled bicylist, showing two speed functions - one performed on level ground, one performed at a 10% grade.](/A2 bike racing figures/Figure_1.png)
 
 # Computational Physics Simulators: A4
 
